@@ -16,8 +16,8 @@ div{
     border: 0.2rem solid rgb(20, 143, 34);
         border-radius: 3%;
         padding: 1rem;
-        width: 40vw;
-        height: 40vh;
+        width: 80vw;  
+        height: 80vw; 
         margin: auto;
         margin-bottom: 2vw;
     
@@ -30,9 +30,10 @@ div{
     border: 0.2rem solid rgb(67, 70, 36);
     border-radius: 3%;
     padding: 1rem;
-    width: 40vw;
-    height: 40vh;
+    width: 80vw;  
+    height: 80vw;
     margin: auto;
     margin-bottom: 2vw;
 
+}
 }
