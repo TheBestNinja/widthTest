@@ -1,0 +1,24 @@
+div{
+    width: 40vw;
+    height: 40vh;
+    border: 5px solid black;
+}
+
+
+
+@media screen and (max-device-width: 4in) and (orientation: landscape){
+div{
+    width: 40vw;
+    height: 40vh;
+    border: 5px solid rgb(166, 33, 33);
+}
+}
+
+
+@media screen and (max-device-width: 4in) and (orientation: portrait){
+div{
+    width: 40vw;
+    height: 40vh;
+    border: 5px solid rgb(48, 125, 75);
+}
+}
