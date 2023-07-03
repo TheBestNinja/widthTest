@@ -1,24 +1,38 @@
 div{
-    width: 40vw;
-    height: 40vh;
-    border: 5px solid black;
+    border: 0.2rem solid rgb(40, 24, 24);
+    border-radius: 3%;
+    padding: 1rem;
+    width: 38vw; 
+    height: 38vw; 
+    min-width: 500px;
+    margin: auto;
+    margin-bottom: 2vw;
 }
 
 
 
 @media screen and (max-device-width: 4in) and (orientation: landscape){
 div{
-    width: 40vw;
-    height: 40vh;
-    border: 5px solid rgb(166, 33, 33);
+    border: 0.2rem solid rgb(20, 143, 34);
+        border-radius: 3%;
+        padding: 1rem;
+        width: 40vw;
+        height: 40vh;
+        margin: auto;
+        margin-bottom: 2vw;
+    
 }
 }
 
 
 @media screen and (max-device-width: 4in) and (orientation: portrait){
 div{
+    border: 0.2rem solid rgb(67, 70, 36);
+    border-radius: 3%;
+    padding: 1rem;
     width: 40vw;
     height: 40vh;
-    border: 5px solid rgb(48, 125, 75);
-}
+    margin: auto;
+    margin-bottom: 2vw;
+
 }
