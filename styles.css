@@ -16,7 +16,7 @@ body{
 
 @media screen and (max-device-width: 4in) and (orientation: landscape){
     .card-main{
-        border: 0.2rem solid rgb(69, 27, 167);
+        border: 0.2rem solid rgb(27, 167, 50);
         border-radius: 3%;
         padding: 1rem;
         width: 40vw;  
